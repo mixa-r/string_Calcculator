@@ -1,0 +1,7 @@
+C:\Users\rublev\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\rublev\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\rublev\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\rublev\source\repos\Kalkulator\Kalkulator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\rublev\source\repos\Kalkulator\Kalkulator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\rublev\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\rublev\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
